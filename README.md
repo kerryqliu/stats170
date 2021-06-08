@@ -10,6 +10,8 @@ Our model is up to bigrams using a regularization term of 10 in sklearn's logist
 
 The work that we're submitting is contained within the final_notebook.ipynb Jupyter notebook, and requires fulldocs.csv and important_words.txt to train. With these three files, you simply need to run everything in the notebook in order. Additional descriptions are contained within the notebook itself.
 
+For the html file, downloading the project_files folder may be necessary to view it. 
+
 ## Additional Files
 
 The main branch also contains additional files showcasing our work.
